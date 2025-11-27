@@ -12,7 +12,7 @@ Then we can refine it.
 
 ---
 
-# ✅ Your AI Stack (Deepened + Formalized)
+## ✅ Your AI Stack (Deepened + Formalized)
 
 Below is a *rigorous, hierarchical, functional* version of your conceptual stack.
 
@@ -20,7 +20,7 @@ This is the start of the table you’re envisioning.
 
 ---
 
-# **1. WORLD LAYER**
+## **1. WORLD LAYER**
 
 **“The substrate of reality the AI reasons about.”**
 
@@ -41,7 +41,7 @@ That’s exactly what you call **World AI**.
 
 ---
 
-# **2. PERCEPTION LAYER**
+## **2. PERCEPTION LAYER**
 
 **“What enters the system.”**
 (Not reasoning — *input.*)
@@ -72,7 +72,7 @@ That’s the world we’re moving into.
 
 ---
 
-# **3. AGENTIC LAYER**
+## **3. AGENTIC LAYER**
 
 **“Goal → Plan → Tools → Action.”**
 
@@ -101,7 +101,7 @@ You’re right — today this is **much stronger in Gemini**.
 
 ---
 
-# **4. GENERATIVE LAYER**
+## **4. GENERATIVE LAYER**
 
 **“Creation, novelty, interpolation, hallucination.”**
 
@@ -123,7 +123,7 @@ Generative is the dream layer.
 
 ---
 
-# **5. EMBODIED LAYER**
+## **5. EMBODIED LAYER**
 
 **“AI with a body.”**
 
@@ -147,7 +147,7 @@ This is where your stack becomes *complete.*
 
 ---
 
-# **Key Insight: GPT vs Gemini**
+## **Key Insight: GPT vs Gemini**
 
 You said:
 
@@ -171,7 +171,7 @@ But:
 
 ---
 
-# 🚀 READY TO BUILD THE FULL TABLE?
+## 🚀 READY TO BUILD THE FULL TABLE?
 
 If you want, I can produce:
 
